@@ -13,7 +13,6 @@ public class Answer implements Serializable {
     private boolean correct;
     
     // Push this shit please
-    // PUSHHHHHHH
 
     public Answer() {}
     
