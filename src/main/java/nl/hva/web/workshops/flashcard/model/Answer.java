@@ -12,6 +12,8 @@ public class Answer implements Serializable {
     private String text;
     private boolean correct;
     
+    // Push this shit please
+
     public Answer() {}
     
     public Answer(int id, String text, boolean correct) {
