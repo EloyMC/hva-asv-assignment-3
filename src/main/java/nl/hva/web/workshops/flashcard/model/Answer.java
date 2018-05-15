@@ -12,7 +12,7 @@ public class Answer implements Serializable {
     private String text;
     private boolean correct;
     
-    // Push this shit please
+    // Push this shit
 
     public Answer() {}
     
